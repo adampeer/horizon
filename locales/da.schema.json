@@ -574,7 +574,8 @@
     "input_style": "Inputstil",
     "selected_button_style": "Valgt knapstil",
     "open_by_default": "Åben som standard",
-    "title_preset": "Forudindstilling for titel"
+    "title_preset": "Forudindstilling for titel",
+    "customer_account_menu": "Kundekontomenu"
   },
   "options": {
     "apple": "Apple",
@@ -850,7 +851,13 @@
     "below_media": "Under mediet",
     "full_frame": "Fuld ramme",
     "icons": "Ikoner",
-    "input_field": "Indtastningsfelt"
+    "input_field": "Indtastningsfelt",
+    "direction_bottom_start": "Nederst til venstre",
+    "direction_center": "Midt",
+    "direction_end": "Højre",
+    "direction_start": "Venstre",
+    "direction_top_end": "Øverst til højre",
+    "direction_top_start": "Øverst til venstre"
   },
   "content": {
     "advanced": "Avanceret",
